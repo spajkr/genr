@@ -1,0 +1,6 @@
+discord
+colorama
+pyyaml
+python-dotenv
+sqlite3
+datetime

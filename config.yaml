@@ -1,0 +1,42 @@
+#
+#     BOT MADE BY IBADTOMAS
+#       Made with love
+#
+#############################################
+
+
+#########################################################
+#                     GENERAL
+#########################################################
+
+embedColor: "4287f5" # Put HexColor of Discord Embed
+embedFooterText: "Copyright Generation"
+embedFooterIconUrl: "https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576847_1280.png"
+
+#########################################################
+#                     ADMINISTRATION
+#########################################################
+
+administrationRoleID: "AdminIDRoole" # Name of role thatt can /add /drop...
+
+#########################################################
+#                     GEN CONFIG
+#########################################################
+
+# Free Gen Command
+NoFreeGenConfigAvaible: true # do not change this
+FreeGenCoolDown: 10 # IN SECONDS!!! THERE CANT BE ""
+
+
+# Premium Gen Command
+PremiumGenRole: "Premium Access" # Name of role
+PremiumGenCoolDown: 5 # IN SECONDS!!! THERE CANT BE ""
+
+# Extreme Role Command
+ExtremeGenRole: "Extreme Access" # Name of role
+ExtremeGenCoolDown: 3 # IN SECONDS!!! THERE CANT BE ""
+
+#########################################################
+#                     MESSAGES
+#########################################################
+noPermission: "Unfortunately, you don't have the authority to execute this command"
